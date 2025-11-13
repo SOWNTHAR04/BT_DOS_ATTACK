@@ -20,7 +20,8 @@ The developer provides this software **without any warranty** and is **not respo
 \`\`\`bash
 $ sudo apt update
 $ sudo apt install python3 python3-pip bluez bluez-tools
-$ sudo git clone https://github.com
+$ sudo git clone https://github.com/SOWNTHAR04/BT_DOS_ATTACK.git
+$ python3 BT_DOS_ATTACK.py
 
 ## Note
 This script works **only on Linux systems**.  
@@ -31,7 +32,7 @@ You must have the following Bluetooth utilities installed:
 These are installed by default on **Kali Linux**.
 
 ## Tested on
-- Kali Linux as attacker, Xiaomi Portable Bluetooth Speaker as target  
+- Kali Linux as attacker, Bluetooth Device as target  
 - Raspberry Pi Zero W as attacker, Redmi Buds Lite as target
 
 ## Manual
