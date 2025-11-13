@@ -20,10 +20,7 @@ The developer provides this software **without any warranty** and is **not respo
 \`\`\`bash
 $ sudo apt update
 $ sudo apt install python3 python3-pip bluez bluez-tools
-$ sudo git clone https://github.com/<your-username>/BLUETOOTH-DOS-ATTACK-SCRIPT.git
-$ cd BLUETOOTH-DOS-ATTACK-SCRIPT/
-$ sudo python3 BT_DOS_ATTACK.py
-\`\`\`
+$ sudo git clone https://github.com
 
 ## Note
 This script works **only on Linux systems**.  
